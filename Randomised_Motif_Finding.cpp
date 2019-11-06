@@ -190,3 +190,5 @@ int main()
 // tgcatgac
 // ggcagggc
 // tcacctgt
+//
+// to understand the code  delete comments which start with 'm'
